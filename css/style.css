@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.h4{
+    color: red;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap
+}
+.margin{
+    margin-right: 10px;
+}
+.pos{
+    justify-content: center;
+}
